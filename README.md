@@ -20,4 +20,4 @@ npm install react-native-form-component
 
 ## Screenshot
 ### Registration Page
-<img src='readMeAssets/RegistationPage.jpg' height="500"/>
+<img src='./readMeAssets/RegistationPage.jpg' height="500"/>
